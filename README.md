@@ -9,6 +9,7 @@ Code and models from the paper ["Language Models are Unsupervised Multitask Lear
 ## Usage
 
 This repository is meant to be a starting point for researchers and engineers to experiment with GPT-2.
+This model was developed by researchers at OpenAI to help us understand how the capabilities of language model capabilities scale as a function of the size of the models (by parameter count) combined with very large internet-scale datasets (WebText).
 
 For basic information, see [model card](./model_card.md).
 
